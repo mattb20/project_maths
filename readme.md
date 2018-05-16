@@ -13,7 +13,7 @@ The MVP will contain
 * High quality video tutorials on each topic.
 * Unlimited supply of online questions and detailed solutions (solutions given in stages following hints).
 * Track student progress through the *course track*.  Each topic has a base level of difficulty a student must achieve in order to move onto topics for which the current topic is a prerequisite.
-* An achievement system - yet to be decided (points? badges? levels?)
+* An achievement system - yet to be decided (points? badges? levels?) PYTHAGORAS POINTS
 * For each student, on a given topic, the website generates questions on the same topic of higher level of difficulty based on what the student has completed already.
 * Student profile and parent dashboard.
 * Unlimited supply of computer generated worksheets based on the student's current level on any topic, together with detailed solution sheet, for if the student/parent wish to do handwritten practice.
